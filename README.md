@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Libraries supporting GraphQL in Dart](https://github.com/gql-dart/gql)
 
-- 🌱 I’m currently learning **Swift, Kotlin**
+- 🌱 I’m currently learning **Rust, Solidity**
 
 - 📝 I regularly write articles on [https://alsigar.com/](https://alsigar.com/)
 
